@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes: 
+  - fixed tunnel connection to my PICO-W Raspberry Pi
+  - removed unnecessary directory (SoftwEng_lab_13)
+
 ## v0.0.4
 Fixes:
  - fixed LED test
